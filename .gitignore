@@ -1,0 +1,30 @@
+# node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# env files
+.env
+.env.*
+
+# build
+dist/
+build/
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# PM2
+pids/
+
+# lock files (optional)
+bun.lockb
+
+# backend ignores
+backend/node_modules/
+backend/build/
+backend/.env
