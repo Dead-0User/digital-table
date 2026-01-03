@@ -1,6 +1,6 @@
 // src/services/analyticsService.ts
 
-const API_BASE_URL = "/api";
+const API_BASE_URL = "https://abhu.duckdns.org/api";
 
 interface Order {
   _id: string;
